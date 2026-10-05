@@ -1,6 +1,6 @@
 <div align="center">
   
-  # 👋 Olá, eu sou Matheus Goulart!
+  # 👋 Olá, eu sou theuzin_da_black!
   
   ### 🚀 Desenvolvedor Web Front-End & Criador de Experiências Interativas
   
@@ -10,14 +10,15 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
     <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
-    <img src="https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Luau Roblox" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Termux" />
   </p>
 </div>
 ---
 ### 💡 Sobre Mim
 - 💻 **Foco Atual:** Desenvolvimento de aplicações web interativas com **JavaScript**, interfaces com **Tailwind CSS** e gráficos 3D na Web com **Three.js**.
 - 🌐 **Conectividade em Tempo Real:** Desenvolvimento de ferramentas e jogos P2P usando **WebRTC** e **WebSockets**.
-- 🎮 **Desenvolvimento de Jogos:** Criação de experiências e scripts customizados em **Luau** para Roblox Studio e jogos 2D/3D em HTML5 Canvas.
+- 📱 **Ambiente Mobile & Automação:** Execução e testes de scripts em **Python**, automações de terminal e ferramentas mobile utilizando **Pydroid 3** e **Termux**.
 - ⚡ **Projetos Locais & Soluções Web:** Criação de landing pages, dashboards dinâmicos e soluções digitais funcionais.
 ---
 ### 🚀 Destaques do Que Faço no GitHub
@@ -27,7 +28,7 @@
 | **Interfaces Web & Dashboards** | Single-page applications, utilitários responsivos e clones de interface modernos em HTML/CSS/JS. |
 | **Gráficos 3D & Simulações** | Ambientes virtuais interativos e simuladores rodando direto no navegador com **Three.js** e WebGL. |
 | **Sistemas Real-Time / P2P** | Comunicação de áudio/vídeo, chat e espelhamento de eventos via protocolo **WebRTC** / **PeerJS**. |
-| **Desenvolvimento Roblox** | Sistemas de inventário, mecânicas de tiro, BTools customizadas e DataStores em **Luau**. |
+| **Desenvolvimento & Scripts Mobile** | Automações em **Python**, consumo de APIs, scripts de terminal e aplicações locais via **Pydroid 3** e **Termux**. |
 
 ---
 ### 📊 Estatísticas do GitHub
