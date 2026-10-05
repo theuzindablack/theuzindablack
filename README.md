@@ -16,7 +16,7 @@ Desenvolvo experiências interativas, aplicações web em tempo real e jogos 2D/
 
 <br> 
 
-<a href="https://github.com/theuzin" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;<a href="https://discord.com" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a> 
+<a href="https://github.com/SEU_USERNAME" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;<a href="https://discord.com" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a> 
 
 </div> 
 
@@ -39,7 +39,7 @@ Desenvolvo experiências interativas, aplicações web em tempo real e jogos 2D/
 
 --- 
 
-### 🛠️ Minha Base Sólida (Domínio)
+### 🛠️️ Minha Base Sólida (Domínio)
 <div> 
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" /> &nbsp;
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" /> &nbsp;
@@ -71,9 +71,9 @@ Desenvolvo experiências interativas, aplicações web em tempo real e jogos 2D/
 ### 📊 Estatísticas e Atividade
 
 <p align="center"> 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SEU_USUARIO_GITHUB&theme=tokyonight&border_radius=10" height="150" alt="Linguagens Mais Usadas" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&theme=tokyonight&show_icons=true&hide_border=true" height="150" alt="GitHub Stats" /> 
   &nbsp;&nbsp; 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_GITHUB&theme=tokyonight&hide_border=true&border_radius=10" height="150" alt="Streak do GitHub" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" /> 
 </p> 
 
 </div>
